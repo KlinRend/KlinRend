@@ -1,5 +1,10 @@
-Ola! 🤙
-Bem-vindo ao meu perfil! 🖖
+<h1> Ola! Bem-vindo ao meu perfil! 🖖 </h1>
+
+<h2> Sobre </h2>
+<p> 👦🏻 Gustavo Pereira de Souza </p>
+<p> 📚 Graduando em Engenharia Geológica pela Universidade Federal de Ouro Preto </p>
+<p> 👨🏻‍💻 Estudante de programação, com foco em Data Science </p>
+<p> 💻 Outos Interesses: Desenvolvimento Web e Mobile </p>
 
  <div>
   <a href="https://github.com/KlinRend">
